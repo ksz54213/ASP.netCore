@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\bin\Debug\netcoreapp2.1\work2(MiddleWare).deps.json
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\bin\Debug\netcoreapp2.1\work2(MiddleWare).runtimeconfig.json
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\bin\Debug\netcoreapp2.1\work2(MiddleWare).runtimeconfig.dev.json
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\bin\Debug\netcoreapp2.1\work2(MiddleWare).dll
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\bin\Debug\netcoreapp2.1\work2(MiddleWare).pdb
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).csprojAssemblyReference.cache
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).RazorAssemblyInfo.cache
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).RazorAssemblyInfo.cs
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).AssemblyInfoInputs.cache
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).AssemblyInfo.cs
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).RazorTargetAssemblyInfo.cache
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).dll
+C:\Users\james\Desktop\ASP.net_Core\work2(MiddleWare)\obj\Debug\netcoreapp2.1\work2(MiddleWare).pdb
